@@ -1,2 +1,2 @@
-# webgl_translation
-Latihan Translasi Web GL
+# webgl_scaling
+Latihan scaling Web GL
